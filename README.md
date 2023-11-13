@@ -3,10 +3,10 @@
 ## 注意
 次の場所で指定されたコマンドを実行してください: `~/.../lib/python3.8/site-packages/pyfilterbank`
 
-\```bash
+```
 gcc -c -std=c99 -O3 sosfilt.c
 gcc -shared -o sosfilt.so sosfilt.o
-\```
+```
 
 ### コマンドの説明
 
